@@ -1,1 +1,2 @@
-# smart-input
+# Input
+this is a Input Method
